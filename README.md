@@ -1,0 +1,2 @@
+# basic
+just another repository
